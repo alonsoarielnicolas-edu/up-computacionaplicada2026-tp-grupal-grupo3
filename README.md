@@ -3,6 +3,11 @@
 
 
 Integrantes:
+* Ariel Nicolas Alonso
+* Agustin Romero
+* Gian Franco Stabile
+* Abril Rios
+* Isaac Méndez 
 
 
 
