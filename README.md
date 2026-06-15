@@ -13,7 +13,5 @@ Notas Varias:
 
 #El password de root fue cambiado varias veces a lo largo del proceso ya que por exposicion a la red (debido al bridge de virtualbox) , representaba un riesgo de seguridad. La version subida a este github contiene el password solicitado 
 
-#Los directorios fueron descargados utilizando filezilla por sftp . Puede existir alguna diferencia minima en los directorios debido a symlinks de debian y particularidades de la herramienta.
-
 
 #En el directorio backup_dir pueden existir backups antiguos producto de sucesivas pruebas de los scripts cron en horarios que no son los mismos que pide la consigna . Estos deben ser unicamente considerados como parte del proceso de testing de cron.
