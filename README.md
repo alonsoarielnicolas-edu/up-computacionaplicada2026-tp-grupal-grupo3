@@ -17,5 +17,5 @@ Notas Varias:
 #En el directorio backup_dir pueden existir backups antiguos producto de sucesivas pruebas de los scripts cron en horarios que no son los mismos que pide la consigna . Estos deben ser unicamente considerados como parte del proceso de testing de cron.
 
 
-#Todos los archivos fueron comprimidos desde Linux con tar -czf         . Luego var fue spliteado con split -b 20M
-##Para reconstruir var ingresar a la carpeta var_splitted y ejecutar cat xa* > var.tar.gz -
+#Todos los archivos fueron comprimidos desde Linux con tar -czf         . Luego var fue spliteado con split -b 20M "var.tar.gz.part"
+##Para reconstruir var ingresar a la carpeta var_splitted y ejecutar cat var.tar.gz.part* > var_tar_reconstruido.gz 
